@@ -86,3 +86,8 @@ footer {
 footer a {
     color: #93c5fd;
 }
+
+.proyecto .boton {
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
